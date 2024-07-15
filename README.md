@@ -13,5 +13,5 @@ Hello! I have a strong passion for Python programming, Quantitative Finance, and
 - Holdem Poker ♠️♥️♣️♦️
 
 ## Get in Touch
-- Telegram: [@py310](https://t.me/py310) :rocket:
+- Telegram: [@py309](https://t.me/py309) :rocket:
 - GitHub Gist Comments: [Gist](https://gist.github.com/py310/1f455d8495e6cec81f3424dc532f6b51) 😊
